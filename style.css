@@ -1,0 +1,29 @@
+#button {
+    background-color: rgb(151, 184, 218);
+    border-radius: 8px;
+    border-color: rgb(7, 47, 127);
+    text-align: center;
+    margin: 4px 2px;
+    width: 80px;
+    height: 30px;
+    
+    
+
+}
+#button:hover {background-color: #071854}
+
+#form-select {
+    width: 180px;
+    height: 30px;
+    border-radius: 8px;
+    background-color: rgb(196, 220, 244);
+    border-color: rgb(7, 47, 127);
+    margin: 6px 2px;
+    margin-left: 9 px;
+    
+
+}
+
+
+
+   
